@@ -1,0 +1,14 @@
+C:\git\click-gane-index\index-api\bin\Debug\netcoreapp2.1\index-api.deps.json
+C:\git\click-gane-index\index-api\bin\Debug\netcoreapp2.1\index-api.runtimeconfig.json
+C:\git\click-gane-index\index-api\bin\Debug\netcoreapp2.1\index-api.runtimeconfig.dev.json
+C:\git\click-gane-index\index-api\bin\Debug\netcoreapp2.1\index-api.dll
+C:\git\click-gane-index\index-api\bin\Debug\netcoreapp2.1\index-api.pdb
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.csprojAssemblyReference.cache
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.csproj.CoreCompileInputs.cache
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.RazorAssemblyInfo.cache
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.RazorAssemblyInfo.cs
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.AssemblyInfoInputs.cache
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.AssemblyInfo.cs
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.RazorTargetAssemblyInfo.cache
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.dll
+C:\git\click-gane-index\index-api\obj\Debug\netcoreapp2.1\index-api.pdb
